@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: custom-nginx:latest
+        image: murthi21/custom-nginx:latest
         ports:
         - containerPort: 80
 
