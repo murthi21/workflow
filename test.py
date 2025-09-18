@@ -1,1 +1,7 @@
-print("Hello World")
+print("Hello World")# ...existing code...
+
+# Terraform
+.terraform/
+**/.terraform/*
+
+# ...existing

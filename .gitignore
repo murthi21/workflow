@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Terraform
+.terraform/
+**/.terraform/*
